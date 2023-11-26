@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Release 0.1 is out"
+date:   2023-11-25 06:17:18 +0100
+categories: event
+---
+Release 0.1 is out, check CDU32 and FSBRIDGE repositories
