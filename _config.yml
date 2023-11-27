@@ -22,7 +22,7 @@ title: CDU32 - ESP32 based CDU for Flight Simulator
 email: fyjet@free.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Control Display Unit for cockpit builders, runs with Microsoft Flight Simulator 2002 to FSX, on Windows 7 to 11.
-baseurl: "/cdu32_doc" # the subpath of your site, e.g. /blog
+baseurl: "/cdu32-doc" # the subpath of your site, e.g. /blog
 url: "https://fyjet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fyjet
 github_username:  fyjet
